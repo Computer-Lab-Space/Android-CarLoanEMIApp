@@ -21,12 +21,12 @@ git clone https://github.com/Computer-Lab-Space/Android-CarLoanEMIApp.git
 
 #### Requirement
 Create an AIDL service that calculates Car Loan EMI. The formula to calculate EMI is
-E = P * r * (1+r)n)/((1+r)n-1)
-where
-E = The EMI payable on the car loan amount
-P = The Car loan Principal Amount
-r = The interest rate value computed on a monthly basis
-n = The loan tenure in the form of months
+E = P * r * (1+r)n)/((1+r)n-1)  
+where  
+E = The EMI payable on the car loan amount  
+P = The Car loan Principal Amount  
+r = The interest rate value computed on a monthly basis  
+n = The loan tenure in the form of months  
 The down payment amount has to be deducted from the principal amount paid towards buying
 theCar. Develop an application that makes use of this AIDL service to calculate the EMI.
 Thisapplication should have four EditText to read the PrincipalAmount, Down Payment, Interest
