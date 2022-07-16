@@ -1,4 +1,4 @@
-# Android Car Loan EMI Calculator
+# Android Car Loan EMI Calculator Using AIDL
 
 #### Clone the project
 
