@@ -34,5 +34,12 @@ Rate,Loan Term (in months) and a button named as “Calculate Monthly EMI”. On
 button,the result should be shown in a TextView. Also, calculate the EMI by varying the Loan
 Term andInterest Rate values.
 
+Note:- Please follow the below steps  
+  1) Please clone the below project first
+  ```sh
+  https://github.com/Computer-Lab-Space/Android-EMILoanCalculatorServer/tree/develop
+  ```
+  2) Start Android-EMILoanCalculatorServer project in your local  
+  3) Start Android-CarLoanEMIApp project  
 
 [Car Loan EMI Calculator Applicaiton Wiremock](https://github.com/Computer-Lab-Space/Android-CarLoanEMIApp/blob/master/app/src/main/res/drawable/EMI_calculator_wiremock.png)
